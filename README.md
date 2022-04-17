@@ -73,5 +73,5 @@ Default web root:
 
 ## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com
 
-###Checking Jenkins from here, setting up build from git repository now
+###Set-up Github to push to Jenkins and a SSH-PUSH on Jenkins also
 
